@@ -29,7 +29,125 @@ Essential + Intermediate Level
 | 23  | Data Cleaning               | Good         |
 | 24  | Dashboard Creation          | Basic–Good   |
 | 25  | MIS Reporting               | Good         |
+26
 
+INDEX + MATCH
+
+Good
+
+27
+
+Advanced XLOOKUP
+
+Good
+
+28
+
+Nested IF
+
+Good
+
+29
+
+IFS, SWITCH
+
+Basic–Good
+
+30
+
+SUMPRODUCT
+
+Good
+
+31
+
+IFNA, ISBLANK, ISNUMBER
+
+Good
+
+32
+
+TEXT, TEXTJOIN, CONCAT
+
+Good
+
+33
+
+FILTER, SORT, UNIQUE
+
+Good
+
+34
+
+SEQUENCE, TAKE, DROP
+
+Basic
+
+35
+
+EOMONTH, NETWORKDAYS, WORKDAY
+
+Good
+
+36
+
+Advanced Date Calculations
+
+Good
+
+37
+
+Advanced Conditional Formatting
+
+Good
+
+38
+
+Advanced Pivot Tables
+
+Good
+
+39
+
+Calculated Fields in Pivot Tables
+
+Good
+
+40
+
+Advanced Dashboard Design
+
+Good
+
+41
+
+Power Query
+
+Advanced
+
+42
+
+Excel Automation
+
+Basic–Good
+
+43
+
+Named Ranges
+
+Good
+
+44
+
+Formula Auditing
+
+Good
+
+45
+
+Excel Protection & Workbook Management
+
+Good
 ### Learn Later (Optional)
 
 | No. | Excel Concept |
