@@ -1,10 +1,10 @@
-Microsoft Excel – Skills to Learn for Resume
+Microsoft Excel – Complete Skills Learning Roadmap
 
-Learning Roadmap: Essential, Intermediate & Advanced Excel
+Category: Essential, Intermediate & Advanced Excel
+Career Focus: MIS Executive, Reporting Analyst, Administration & Operations
+Goal: Become an Advanced Excel and MIS Reporting Professional.
 
-Objective: Develop strong Excel skills for MIS Reporting, Administration, Academic Operations, Institutional Management, IT Operations and Business Operations roles.
-
-Level 1: Essential & Intermediate Excel
+1. Essential & Intermediate Excel Skills
 No.	Excel Concept	Target Level
 1	Data Entry & Editing	Good
 2	Cell Formatting	Good
@@ -31,7 +31,10 @@ No.	Excel Concept	Target Level
 23	Data Cleaning	Good
 24	Dashboard Creation	Basic–Good
 25	MIS Reporting	Good
-Level 2: Advanced Excel
+
+Target: Become confident in everyday Excel operations, formulas, data analysis, Pivot Tables and basic MIS reporting.
+
+2. Advanced Excel Skills
 No.	Excel Concept	Target Level
 26	INDEX + MATCH	Good
 27	Advanced XLOOKUP	Good
@@ -53,43 +56,18 @@ No.	Excel Concept	Target Level
 43	Named Ranges	Good
 44	Formula Auditing	Good
 45	Excel Protection & Workbook Management	Good
-Level 3: Additional Skills (Optional)
+
+Target: Handle complex calculations, advanced data analysis, automated reporting, data transformation and professional dashboard creation.
+
+3. Additional Excel Skills (Optional)
 No.	Excel Concept	Target Level
 46	VBA & Macro Recording	Basic–Good
 47	Power Pivot & Data Model	Basic–Good
 48	Advanced Dynamic Array Formulas	Good
-Practical Projects to Complete
 
-After learning the concepts, independently build the following projects:
+Target: Develop additional automation and large-scale data analysis capabilities.
 
-Student Database Management System
-Student Attendance Management Report
-Fee Collection & Outstanding Report
-Examination Results Analysis Dashboard
-Staff Attendance & Salary Report
-Monthly MIS Reporting Dashboard
-Interactive Business Performance Dashboard
-Final Learning Target
-Be comfortable with all 25 essential Excel concepts.
-Develop proficiency in the 20 advanced Excel concepts.
-Understand Power Query and Excel automation.
-Independently create professional Excel dashboards.
-Prepare daily, weekly and monthly MIS reports.
-Clean, analyse and summarise large datasets.
-Automate repetitive reporting tasks wherever possible.
-Career Opportunities
-
-This Excel skill set is suitable preparation for roles such as:
-
-MIS Executive
-MIS Reporting Executive
-MIS Coordinator
-Reporting Analyst
-Administration Executive
-Academic Operations Executive
-Institutional Data Coordinator
-Junior Data Analyst
-
-Final Goal: Become a confident Advanced Excel and MIS Reporting professional, capable of independently managing data, preparing reports, creating dashboards and supporting management decisions.
-
-Note: Completing the topics alone does not establish advanced proficiency. Practical projects and independent application are essential.
+4. Practical Excel Projects
+No.	Project Name	Key Skills Used
+1	Student Database Management System	Tables, Data Validation, XLOOKUP
+2	Student Attendance Management	COUNTIF, SUMIFS, Date Functions
